@@ -11,7 +11,7 @@ Server để test bài 1 ở branch: `form-handle-server`
 - Tạo Database để quản lý user: Username, email, password,.... nếu muốn thì lưu cả avatar
 - tìm hiểu cách truy vấn, thêm, sửa xóa cơ sở dữ liệu
 
-### Bài 2: kết hợp database với backend
+### Bài 2: kết hợp database với backend (1 tuần)
 
 - tạo 1 server bằng ngôn ngữ backend đã tìm hiểu
 server sẽ trả 1 trang hiển thị danh sách tất cả user trong database đã tạo ở bài 1

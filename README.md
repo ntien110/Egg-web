@@ -1,6 +1,6 @@
 # Cách cài đặt và chạy server
 ## Cách cài đặt
-- cài đặt `node` và `yarn` (nếu trên ubuntu thì cài thông qua `nvm` là nhanh nhất)
+- cài đặt `node` và `yarn` (nếu trên ubuntu thì cài thông qua `nvm` là nhanh nhất)\
 **Chú ý:** Có thể dùng `npm` thay vì `yarn`, nhưng yarn nhanh hơn nên mình recomment `yarn` hơn
 ## Cách chạy project
 - Vào bên trong thư mục của project
